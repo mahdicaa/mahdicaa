@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: m_furotan@alumni.iust.ac.ir
 - ⚡ Fun fact: I am crazy about computer programing 
 -->
-## 🔭 I’m currently working on the application of artificial neural inteligence in energy systems. I have also various experiences in react framework.
-## 🌱 I’m currently learning React.
+### 🔭 I’m currently working on the application of artificial neural inteligence in energy systems. I have also various experiences in react framework.
+#### 🌱 I’m currently learning React.
 ## 👯 I’m looking to collaborate on various project in my field.
 ## 🤔 I’m looking for help with frontend
 ## 📫 How to reach me: m_furotan@alumni.iust.ac.ir
