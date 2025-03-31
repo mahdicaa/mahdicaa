@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: m_furotan@alumni.iust.ac.ir
 - ⚡ Fun fact: I am crazy about computer programing 
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+
 
 -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
