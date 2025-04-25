@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdicaa&show_icons=true)
+![mahdicaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdicaa&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdicaa&layout=compact)
 
 
